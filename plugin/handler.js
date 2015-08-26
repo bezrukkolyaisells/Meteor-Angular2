@@ -1,4 +1,4 @@
-Plugin.registerSourceHandler('ng.html', {
+Plugin.registerSourceHandler('ng2.html', {
   isTemplate: true,
   archMatching: "web"
 }, function(compileStep) {
